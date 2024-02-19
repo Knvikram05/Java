@@ -63,7 +63,7 @@ public class Inputs{
         // System.out.println(result);
 
         //condition ststements
-        // if tatement
+        // if statement
         // int a = 10;
         // if (a == 10) {
         // System.out.println("Hello World");
