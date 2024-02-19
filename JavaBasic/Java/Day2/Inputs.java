@@ -11,6 +11,7 @@ public class Inputs{
         // boolean check = false;
 
         //Scanner input = new Scanner (System.in);
+        // import java.util.scanner(header to get input from user)
         //integer
         // System.out.print("Please Enter Some Inputs:");
         // int rollno = input.nextInt();
