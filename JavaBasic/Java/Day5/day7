@@ -1,0 +1,30 @@
+
+import java.util.Scanner;
+public class largestNumber{
+public static void main(String arys[]){
+Scannerinput = newScanner(System.in);
+int num1 = input.nextint();
+int num2 = input.nextint();
+if(num1<num2){
+   System.out.println(num2+"is the largest number");
+}
+else{
+   System.out.println(num1+"is the largest number");
+}
+}
+}
+
+
+
+import java.util.Scanner;
+public class SimpleInterest{
+public static void main (Sting args[]){
+Scanner input = newScanner(system.in);
+double principal = scanner.nextdouble();
+double time = scanner.nextdouble();
+double rate = scanner.nextdouble();
+double interest = (principal*time*rate)/100;
+System.out.println("Simple interest"+interest);
+
+}
+}
