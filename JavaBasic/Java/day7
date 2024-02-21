@@ -1,0 +1,31 @@
+inport java.util.Scanner;
+public class Calculator{
+public static void main (string args[]){
+Scanner input = newScanner(system.in);
+System.out.println("Enter the numbers:");
+double num1 = Scanner.nextdouble();
+double num2 = Scanner.nextdouble();
+System.out.println("Enter the operator(+,-,*,/)");
+char operator = Scanner.next().charAt(0);
+double result = 0;
+
+if(operator == '+'){
+   result = num1+num2;
+}elseif(operator =='-'){
+   result = num1-num2;
+}elseif(operator == '*'){
+   result = num1*num2;
+}elseif(operator == '/'){
+  if (num2 !=0){
+        result = num1/num2;
+} else{
+  System.outprintln("error! Division by zero.");
+   return;
+}
+   
+} else {
+   System.out.println( "Invalid operator!");
+   return;
+}
+
+System.outr.println("Result:"+result);
