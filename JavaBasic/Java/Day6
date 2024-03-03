@@ -15,7 +15,7 @@ if (num %2==0){
 
 import java.util.Scanner;
 public class greetingMessage{
-public static void main(string args[]){
+public static void main(string args[]){ 
 Scannerinput = newScanner(system.in);
 string name = input.nextline();
 sytem.out.println("hello"+name);
