@@ -19,7 +19,7 @@ if(operator == '+'){
   if (num2 !=0){
         result = num1/num2;
 } else{
-  System.outprintln("error! Division by zero.");
+  System.outprintln("error! Division by zero."); 
    return;
 }
    
