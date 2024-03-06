@@ -13,7 +13,7 @@ public class Switch {
     //        case "Orange" -> System.out.println("Round fruit");
     //        case "Grapes" -> System.out.println("Small fruit");
     //        default -> System.out.println("please enter a valid fruit");
-    //    }
+    //    } 
       
            int day = in.nextInt();
            //        switch (day) {
