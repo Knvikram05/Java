@@ -9,7 +9,7 @@ public class CurrencyConverter {
         double usdRate = 0.014; // Conversion rate from rupees to USD
         double usdAmount = rupees * usdRate;
         System.out.println("Amount in USD: " + usdAmount);
-    }
+    } 
 }
 
 
