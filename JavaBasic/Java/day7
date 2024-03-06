@@ -13,7 +13,7 @@ if(operator == '+'){
    result = num1+num2;
 }elseif(operator =='-'){
    result = num1-num2;
-}elseif(operator == '*'){
+}elseif(operator == '*'){ 
    result = num1*num2;
 }elseif(operator == '/'){
   if (num2 !=0){
