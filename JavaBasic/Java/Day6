@@ -5,7 +5,7 @@ Scannerinput = newScanner(system.in);
 int num = input.nextint();
 if (num %2==0){
    system.out.println("Given Number is EVEN"); 
-}else{
+}else{ 
    system.out.println("Given Number is ODD") 
 }
 }
