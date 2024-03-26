@@ -12,7 +12,6 @@ if (num %2==0){
 }
 
 
- 
 import java.util.Scanner;
 public class greetingMessage{
 public static void main(string args[]){ 
