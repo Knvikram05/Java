@@ -7,7 +7,7 @@ if (num %2==0){
    system.out.println("Given Number is EVEN"); 
 }else{ 
    system.out.println("Given Number is ODD") 
-} 
+}  
 }
 }
 
